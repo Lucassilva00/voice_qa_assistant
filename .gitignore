@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+.env.*
+!.env.example
+
+*.wav
+*.mp3
+*.m4a
+*.ogg
